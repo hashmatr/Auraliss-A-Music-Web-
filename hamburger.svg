@@ -1,0 +1,10 @@
+<svg width="43" height="43" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30">
+  <!-- Top line -->
+  <rect x="5" y="7" width="20" height="2" fill="#7908e3" />
+  
+  <!-- Middle line -->
+  <rect x="5" y="14" width="20" height="2" fill="#7908e3" />
+  
+  <!-- Bottom line -->
+  <rect x="5" y="21" width="20" height="2" fill="#7908e3" />
+</svg>

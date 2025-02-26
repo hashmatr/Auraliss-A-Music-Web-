@@ -1,0 +1,5 @@
+<svg width="60" height="60" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Double right-facing triangles for next song -->
+  <path d="M40,35 L60,50 L40,65 Z" fill="black" stroke="black" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M20,35 L40,50 L20,65 Z" fill="black" stroke="black" stroke-width="2" stroke-linejoin="round"/>
+</svg>

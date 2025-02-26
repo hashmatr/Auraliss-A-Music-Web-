@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 50" width="150" height="50">
+    <!-- Background Gradient -->
+    <defs>
+        <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" style="stop-color:#6a11cb;stop-opacity:1" />
+            <stop offset="100%" style="stop-color:#2575fc;stop-opacity:1" />
+        </linearGradient>
+    </defs>
+
+    <!-- Background Rectangle -->
+    <rect width="150" height="50" fill="url(#gradient)" rx="7.5" ry="7.5"/>
+
+    <!-- Music Note Icon -->
+    <path d="M20 15 L20 30 Q20 35 15 35 T10 30 T5 25" stroke="white" stroke-width="2" fill="none"/>
+    <circle cx="20" cy="32.5" r="3" fill="white"/>
+    <path d="M25 15 L25 25" stroke="white" stroke-width="2" fill="none"/>
+    <circle cx="25" cy="15" r="2" fill="white"/>
+
+    <!-- Auraliss Text -->
+    <text x="40" y="30" font-family="'Poppins', sans-serif" font-size="18" fill="white" font-weight="600" letter-spacing="1">
+        Auraliss
+    </text>
+
+    <!-- Subtle Wave Effect -->
+    <path d="M0 45 Q37.5 40 75 45 T150 45 V50 H0 Z" fill="rgba(255,255,255,0.1)"/>
+</svg>
